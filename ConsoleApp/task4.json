@@ -1,0 +1,242 @@
+[
+  {
+    "Id": "ac1323b4-eb36-4d30-a818-0e83e1324b08",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Kharkiv"
+      }
+    },
+    "ClientId": "8c68429c-1422-4449-a9b8-8a269a96d26a",
+    "Type": 0,
+    "PaymentId": "bd74336a-0dd1-4129-8fcc-c52207413b01",
+    "LoadingPeriod": {
+      "Start": "2023-03-19T20:02:00",
+      "End": "2023-03-19T21:33:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-20T19:45:00",
+      "End": "2023-03-22T20:06:00"
+    },
+    "Status": 6,
+    "CargoType": "Animal products"
+  },
+  {
+    "Id": "fff57074-8f59-4c37-bca0-456917c855c1",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Kherson"
+      }
+    },
+    "ClientId": "e6d09b0e-3e56-4336-8c47-f1f93498aeb6",
+    "Type": 0,
+    "PaymentId": "9841e4a2-7401-48f3-99bb-ea725f4dfa76",
+    "LoadingPeriod": {
+      "Start": "2023-03-17T05:42:00",
+      "End": "2023-03-17T07:09:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T22:10:00",
+      "End": "2023-03-20T05:50:00"
+    },
+    "Status": 3,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "6d93d028-ecfa-4178-be6c-dbde9098ca97",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "f3b51df3-ff7c-4c67-a7af-89d159c2124d",
+    "Type": 0,
+    "PaymentId": "1b547777-836e-4574-bff1-b7abeef71123",
+    "LoadingPeriod": {
+      "Start": "2023-03-14T02:04:00",
+      "End": "2023-03-14T03:05:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-16T07:39:00",
+      "End": "2023-03-17T03:06:00"
+    },
+    "Status": 2,
+    "CargoType": "Natural or cultured pearls, precious or semi-precious stones, precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin"
+  },
+  {
+    "Id": "3d184b9f-57cb-4764-83bf-b4784d5901c8",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "46e566c2-8bc2-4c1a-9b9d-14e3ecb0151e",
+    "Type": 0,
+    "PaymentId": "3239c9a9-c0bc-4df5-95d9-054fe5846ed0",
+    "LoadingPeriod": {
+      "Start": "2023-03-06T16:38:00",
+      "End": "2023-03-06T18:01:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-07T23:21:00",
+      "End": "2023-03-09T16:39:00"
+    },
+    "Status": 3,
+    "CargoType": "Products of the chemical or allied industries"
+  },
+  {
+    "Id": "3244c88e-49e6-4093-8dce-97703bde6440",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Rivne"
+      }
+    },
+    "ClientId": "1c96f37d-775d-43c8-8b13-c0337d4e5e9d",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T02:32:00",
+      "End": "2023-03-07T03:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T16:20:00",
+      "End": "2023-03-10T03:40:00"
+    },
+    "Status": 0,
+    "CargoType": "Mineral products"
+  },
+  {
+    "Id": "28517b9d-b8aa-49b0-9538-683861bf6c9f",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Zaporizhzhia"
+      }
+    },
+    "ClientId": "f81c98b8-96ba-4bfa-a2b3-78dcfc8a82a1",
+    "Type": 0,
+    "PaymentId": "ea8593d3-9a21-4292-b63a-c8107ca80380",
+    "LoadingPeriod": {
+      "Start": "2023-03-10T19:14:00",
+      "End": "2023-03-10T20:43:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-12T12:06:00",
+      "End": "2023-03-13T20:08:00"
+    },
+    "Status": 1,
+    "CargoType": "Articles of stone, plaster, cement, asbestos, mica or similar materials; ceramic products; glass and glassware"
+  },
+  {
+    "Id": "931e9887-c744-4e3b-844a-b8b67daa2763",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Lviv"
+      }
+    },
+    "ClientId": "55a70a63-f8c3-4d9b-81d9-304d8b2a2a3f",
+    "Type": 0,
+    "PaymentId": "98df0a2f-d5c8-424f-8584-8a4d5762868a",
+    "LoadingPeriod": {
+      "Start": "2023-03-07T04:03:00",
+      "End": "2023-03-07T05:46:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T04:57:00",
+      "End": "2023-03-10T04:57:00"
+    },
+    "Status": 6,
+    "CargoType": "Miscellaneous manufactured articles"
+  },
+  {
+    "Id": "9b771101-67a8-41a6-9a97-8c2c878449b4",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Lviv"
+      }
+    },
+    "ClientId": "aa5f29e8-5d5e-46a2-ae29-c2d9d9cbe7e6",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-07T03:33:00",
+      "End": "2023-03-07T05:25:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-09T22:50:00",
+      "End": "2023-03-10T04:27:00"
+    },
+    "Status": 5,
+    "CargoType": "Prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes; products, whether or not containing nicotine, intended for inhalation without combustion; other nicotine containing products intended for the intake of nicotine into the human body"
+  },
+  {
+    "Id": "0af3e9c7-ae8e-442b-8b18-8c5cb56f3b38",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Mariupol"
+      }
+    },
+    "ClientId": "6bb1f6c7-6dc2-47c3-bd10-6c81e005e974",
+    "Type": 0,
+    "PaymentId": "1e9eabba-1202-4758-8c14-0dad3f4db751",
+    "LoadingPeriod": {
+      "Start": "2023-03-20T15:48:00",
+      "End": "2023-03-20T17:42:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-23T13:47:00",
+      "End": "2023-03-23T16:31:00"
+    },
+    "Status": 5,
+    "CargoType": "Base metals and articles of base metal"
+  },
+  {
+    "Id": "5890b7ca-f3f7-4515-a30d-824b5f8a6c62",
+    "Direction": {
+      "Origin": {
+        "City": "Kryvyi Rih"
+      },
+      "Destination": {
+        "City": "Mykolaiv"
+      }
+    },
+    "ClientId": "7d6d8769-b64a-48f2-a6e7-eb5a5c5a39b5",
+    "Type": 0,
+    "PaymentId": null,
+    "LoadingPeriod": {
+      "Start": "2023-03-15T07:00:00",
+      "End": "2023-03-15T08:02:00"
+    },
+    "ArrivalPeriod": {
+      "Start": "2023-03-17T23:28:00",
+      "End": "2023-03-18T08:31:00"
+    },
+    "Status": 1,
+    "CargoType": "Articles of stone, plaster, cement, asbestos, mica or similar materials; ceramic products; glass and glassware"
+  }
+]
